@@ -1,0 +1,17 @@
+﻿  main.c
+C:\Users\juan_\Desktop\cs-360\Lab1\Lab1\main.c(41,5): warning C4552:  '+': result of expression not used
+C:\Users\juan_\Desktop\cs-360\Lab1\Lab1\main.c(116,17): warning C4047:  'function': 'int' differs in levels of indirection from 'char [2]'
+C:\Users\juan_\Desktop\cs-360\Lab1\Lab1\main.c(116,17): warning C4024:  'putchar': different types for formal and actual parameter 1
+C:\Users\juan_\Desktop\cs-360\Lab1\Lab1\main.c(126,24): warning C4047:  'function': 'char *' differs in levels of indirection from 'int'
+C:\Users\juan_\Desktop\cs-360\Lab1\Lab1\main.c(126,24): warning C4024:  'prints': different types for formal and actual parameter 1
+C:\Users\juan_\Desktop\cs-360\Lab1\Lab1\main.c(100,7): warning C4101:  'up': unreferenced local variable
+C:\Users\juan_\Desktop\cs-360\Lab1\Lab1\main.c(146,15): warning C4013:  'open' undefined; assuming extern returning int
+C:\Users\juan_\Desktop\cs-360\Lab1\Lab1\main.c(151,6): warning C4013:  'read' undefined; assuming extern returning int
+C:\Users\juan_\Desktop\cs-360\Lab1\Lab1\main.c(172,9): warning C4013:  'lseek' undefined; assuming extern returning int
+C:\Users\juan_\Desktop\cs-360\Lab1\Lab1\main.c(61): warning C4716:  'printu': must return a value
+C:\Users\juan_\Desktop\cs-360\Lab1\Lab1\main.c(44): warning C4716:  'rpu': must return a value
+C:\Users\juan_\Desktop\cs-360\Lab1\Lab1\main.c(76): warning C4716:  'printd': must return a value
+C:\Users\juan_\Desktop\cs-360\Lab1\Lab1\main.c(84): warning C4716:  'printx': must return a value
+C:\Users\juan_\Desktop\cs-360\Lab1\Lab1\main.c(94): warning C4716:  'printo': must return a value
+C:\Users\juan_\Desktop\cs-360\Lab1\Lab1\main.c(141): warning C4716:  'myprintf': must return a value
+  Lab1.vcxproj -> C:\Users\juan_\Desktop\cs-360\Lab1\Debug\Lab1.exe

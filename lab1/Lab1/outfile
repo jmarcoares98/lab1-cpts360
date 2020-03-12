@@ -1,0 +1,33 @@
+vdisk1  start_sector = 18 
+!vdisk1  system_type = 7 
+!vdisk1  nr_sectors = 342 
+!
+!vdisk2  start_sector = 360 
+!vdisk2  system_type = 131 
+!vdisk2  nr_sectors = 360 
+!
+!vdisk3  start_sector = 720 
+!vdisk3  system_type = 12 
+!vdisk3  nr_sectors = 720 
+!
+!vdisk4  start_sector = 1440 
+!vdisk4  system_type = 5 
+!vdisk4  nr_sectors = 1440 
+!
+!Extended Partitions
+!vdisk5  start_sector = 1458 
+!vdisk5  system_type = 6 
+!vdisk5  nr_sectors = 342 
+!
+!vdisk6  start_sector = 1818 
+!vdisk6  system_type = 130 
+!vdisk6  nr_sectors = 522 
+!
+!vdisk7  start_sector = 2358 
+!vdisk7  system_type = 131 
+!vdisk7  nr_sectors = 522 
+!
+!
+!TEST FOR MYPRINTF:
+!cha=A string=this is a test      dec=100  hex=0x64 oct=144 neg=-100 
+!
